@@ -1,0 +1,8 @@
+{
+    "name" : "lynxcat/scheduler",
+    "varsion" : "0.0.1",
+    "license" : "proprietary",
+    "autoload" : {
+        "psr-4" : {"Lynxcat\\": "src/"}
+    }
+}
